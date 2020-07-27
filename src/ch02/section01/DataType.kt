@@ -1,4 +1,4 @@
-package ch02
+package ch02.section01
 
 /** 자료형
 * Int 정수 4,23 ...

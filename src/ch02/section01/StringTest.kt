@@ -1,4 +1,4 @@
-package ch02
+package ch02.section01
 
 /** 문자열 - 문자를 배열처럼 - " "
  * String으로 선언, String Pool이라는 특수한 공간에 구성

@@ -1,4 +1,4 @@
-package ch02
+package ch02.section01
 
 /** 정수형
 * 사용하는 숫자 크기에 따라, 부호에 따라 타입 정해서 사용하기
