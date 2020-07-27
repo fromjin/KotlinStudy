@@ -1,20 +1,22 @@
-/* 자료형
+package ch02
+
+/** 자료형
 * Int 정수 4,23 ...
 * String 문자열 "Jin9"
 * Float 실수 153.2
 */
 
-/* 변수
+/** 변수
 * val (value) - 불변형 (immutable) 변경X
 * var (variable) - 가변형 (mutable) 변경 O
 */
 
-/*
+/**
 * 선언키워드 변수이름(: 자료형) = 값
 * val name(: String) = "JIN"
 */
 
-/* 변수 이름
+/** 변수 이름
 * 숫자로 시작하면 안됨
 * 코틀린에서 사용되는 키워드 사용할 수 없음
 * 의미있는 단어로 사용하는 것이 좋음
@@ -22,7 +24,7 @@
 * 카멜 표기법 : camelCase (일반 변수, 함수명), AnimalCategory (클래스, 인터페이스)
 * */
 
-/* 자료형
+/** 자료형
 * 기본형 (Primitive data) : 성능이 더 좋으나 쓰기 힘들어서 쓰지않게끔 되어있음
 * 가공X 순수한 자료형, 프로그래밍 언어에 내장 - int, long, float, double 등
 *

@@ -1,10 +1,12 @@
-/* 정수형
+package ch02
+
+/** 정수형
 * 사용하는 숫자 크기에 따라, 부호에 따라 타입 정해서 사용하기
 * 부호O : Long, Int, Short, Byte
 * 부호X : ULong, UInt, UShort, UByte
 */
 
-/* 실수형
+/**실수형
 * Double(기본), Float - :Float 또는 접미사F 사용
 * 지수 : 수학 3.10*(10)^16 -> 3.14E+16 코드
 *
