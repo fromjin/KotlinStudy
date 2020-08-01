@@ -1,4 +1,4 @@
-package ch04.section02
+package ch04.section01
 
 import java.lang.Integer.parseInt
 
@@ -18,6 +18,8 @@ import java.lang.Integer.parseInt
  조건[혹은 표현식] -> 실행문
  ...
  }
+ *
+ * break없음
  * */
 
 fun main() {
