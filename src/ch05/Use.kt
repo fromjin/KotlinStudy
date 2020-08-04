@@ -12,7 +12,7 @@ import java.io.PrintWriter
 
 fun main() {
 
-    //PrintWriter은 파일을 열거나 새롭게 생성해 파일에 출력가능
+    // PrintWriter은 파일을 열거나 새롭게 생성해 파일에 출력가능
     // use를 사용하고 있는데 println 사용 가능
     // 이후 use 열었던 파일을 닫아주는 작업 내부에서 진행
     PrintWriter(FileOutputStream("d:\\test\\output.txt")).use {
